@@ -25,6 +25,8 @@ import { useLastEdited } from 'utils/useLastEdited'
 import { LastEdited, DocsPagination } from 'components/ui'
 import { openGraphImage } from 'utils/open-graph-image'
 
+ojoj
+
 function BlogTemplate({ file, siteConfig, prevPage, nextPage }) {
   // fallback workaround
   if (!file) {
